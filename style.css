@@ -1,0 +1,26 @@
+#grid{
+    height: 512px;
+    width: 512px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+body{
+    background-color: black;
+}
+.botoes{
+    text-align: center;
+}
+.boasvindas{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.botao{
+    display: inline block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
